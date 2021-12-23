@@ -1,0 +1,15 @@
+@mixin telefono {
+    @media (min-width: 480px) {
+        @content;
+    }
+}
+@mixin tablet {
+    @media (min-width: 780px) {
+        @content;
+    }
+}
+@mixin televisor {
+    @media (min-width: 1200px) {
+        @content;
+    }
+}

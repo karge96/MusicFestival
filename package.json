@@ -1,0 +1,36 @@
+{
+  "name": "festivalmusica_inicio",
+  "version": "1.0.0",
+  "description": "aprendiendo sass y gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sass",
+    "gulp",
+    "node",
+    "npm"
+  ],
+  "author": "Yujaidy Gómez",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "concat": "^1.0.3",
+    "cssnano": "^5.0.4",
+    "dart-sass": "^1.25.0",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-notify": "^4.0.0",
+    "gulp-postcss": "^9.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-terser-js": "^5.2.2",
+    "gulp-webp": "^4.0.1",
+    "node-sass": "^6.0.0",
+    "postcss": "^8.3.0"
+  }
+}
